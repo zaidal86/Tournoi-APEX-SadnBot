@@ -1,0 +1,17 @@
+{
+  "name": "sadnbot_discord_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
